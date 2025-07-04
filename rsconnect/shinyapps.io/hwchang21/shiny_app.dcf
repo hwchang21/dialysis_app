@@ -1,0 +1,10 @@
+name: shiny_app
+title:
+username: hwchang21
+account: hwchang21
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12076250
+bundleId: 8789372
+url: https://hwchang21.shinyapps.io/shiny_app/
+version: 1
