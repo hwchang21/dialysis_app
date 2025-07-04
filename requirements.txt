@@ -1,5 +1,6 @@
 streamlit==1.35.0
-streamlit-option-menu
-pandas
-numpy
-scikit-learn
+streamlit-option-menu==0.3.6
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.2.2     # ← 把 1.4.2 换成你上面查到的版本
+joblib==1.4.2           # 有时模型用 joblib.save，顺便锁一下
