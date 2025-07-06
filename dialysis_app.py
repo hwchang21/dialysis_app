@@ -43,7 +43,7 @@ FEATURES_UNITS = {
     # 机器参数
     "Total Blood Volume"             : "mL",
     "Total UV per session"           : "mL",
-    "Ultrafiltration Rate"           : "mL /kg /h",
+    "Ultrafiltration Rate"           : "mL/h",
     "Ultrafiltration Weight Ratio"   : "%",
     "Mean Blood Flow"                : "mL/min",
     "Mean Arterial Pressure"         : "mmHg",
